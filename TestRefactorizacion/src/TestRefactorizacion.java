@@ -14,5 +14,7 @@ public class TestRefactorizacion {
 public static void main(String[] args) {
 // TODO code application logic here
 cliente c=new cliente("IES de Rodeira");
+
+//Comentario de prueba para la tarea II obligatoria de GIT
 }
 }
